@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1742137144097" clover="3.2.0">
+  <project timestamp="1742137144097" name="All files">
+    <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1" elements="9" coveredelements="3" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="operation.js" path="/Users/ale/Library/Mobile Documents/com~apple~CloudDocs/unige/Anno terzo/Strumenti Per Lo Sviluppo E Gestione Del Software/ssgs-projects/ssgs-calc/operation.js">
+      <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
