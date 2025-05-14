@@ -2,13 +2,34 @@
   "name": "ssgs-calc",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleboasi/ssgs-calc.git"
   },
-  "keywords": [],
-  "author": "",
+  "bugs": {
+    "url": "https://github.com/aleboasi/ssgs-calc/issues"
+  },
+  "homepage": "https://github.com/aleboasi/ssgs-calc/blob/main/README.md",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "keywords": [
+    "calcolatrice",
+    "nodejs",
+    "javascript",
+    "jest"
+  ],
+  "author": "Alessia Boasi https://github.com/aleboasi",
   "license": "ISC",
-  "description": "",
+  "description": "Un'applicazione che simula una calcolatrice",
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js"
+    ]
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
